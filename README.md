@@ -5,7 +5,7 @@
 - 🌱 Estudando **JavaScript**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela *UNINTER*
 - 🏋️ Apaixonado por esportes
-- 🤓 Fun fact: sou formado em Educação Física Bacharelado, mas fiz transição de carreira para me tornar um programador
+- 🤓 Fun fact: sou formado em Educação Física, mas fiz transição de carreira para me tornar um programador
 - 🎯 Buscando crescer como desenvolvedor front-end e contribuir em projetos com propósito
 
 ---
