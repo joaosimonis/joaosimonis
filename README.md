@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o João Simonis
+## 👋 Olá! Eu sou o João Simonis
 
 ### 🙋‍♂️ Sobre mim
 - 🚀 Hoje sou **estagiário** no *Programa de Desenvolvimento de Talentos da [Imply](https://imply.com/pt/)*
