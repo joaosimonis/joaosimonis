@@ -2,7 +2,6 @@
 
 ### 🙋‍♂️ Sobre mim
 - 🚀 Hoje sou **estagiário** no *Programa de Desenvolvimento de Talentos da [Imply](https://imply.com/pt/)*
-- 🌱 Estudando **JavaScript**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela *UNINTER*
 - 🏋️ Apaixonado por esportes
 - 🤓 Fun fact: sou formado em Educação Física, mas fiz transição de carreira para me tornar um programador
